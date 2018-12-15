@@ -3,6 +3,9 @@
 #### daru pandas 
 https://github.com/SciRuby/daru
 
+#### statsample
+https://github.com/sciruby/statsample
+
 #### numo-narray numpy
 
 
