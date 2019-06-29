@@ -48,3 +48,13 @@ end
 
 ```
 
+```sh
+sudo apt-get install libgs10-dev r-base r-base-dev
+sudo Rscript -e "install.packages(c('Rserve', 'irr'))"
+
+sudo gem install statsample
+sudo gem install statsample-optimization
+sudo gem install statsample-sem
+
+gem install daru
+```
